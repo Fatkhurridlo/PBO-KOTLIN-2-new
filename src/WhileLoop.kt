@@ -1,0 +1,11 @@
+// Program untuk membuat lima line
+
+fun main(args: Array<String>) {
+
+    var i = 1
+
+    while (i <= 5) {
+        println("Line $i")
+        ++i
+    }
+}
